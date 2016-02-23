@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">HelloWorld</string>
     <string name="strButtonCaption">Click Here!</string>
-    <string name="strMessage">Different message!</string>
+    <string name="strMessage">Different message!</string> -->
+   <!-- <string name="app_name">नमस्ते दुनिया</string>
+    <string name="strButtonCaption">यहां क्लिक करे!</string>
+    <string name="strMessage">अलग संदेश!</string> -->
 </resources>
