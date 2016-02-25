@@ -12,7 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/strButtonCaption"
+        android:text="यहां क्लिक करे!"
         android:id="@+id/btnSayHello"
         android:layout_marginTop="91dp"
         android:layout_centerHorizontal="true"
