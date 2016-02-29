@@ -2,6 +2,6 @@
 
     <string name="app_name">Hello World</string>
     <string name="strButtonCaption">click here!</string>
-    <string name="strMessage">Differnt Message!</string>
+    <string name="strMessage">Different Message!</string>
     <string name="strArmaans">Armaan\'s Button</string>
 </resources>
