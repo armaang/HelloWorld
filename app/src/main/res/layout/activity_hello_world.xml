@@ -12,7 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="यहां क्लिक करे!"
+        android:text="@string/StrbtnSayHello"
         android:id="@+id/btnSayHello"
         android:layout_marginTop="91dp"
         android:layout_centerHorizontal="true"
@@ -28,7 +28,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Armaan&apos;s Button"
+        android:text="@string/strbtnsayArmaan"
         android:id="@+id/btnsayArmaan"
         android:layout_alignBottom="@+id/txtOutput"
         android:layout_centerHorizontal="true"

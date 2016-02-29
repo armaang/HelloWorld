@@ -4,4 +4,6 @@
     <string name="strButtonCaption">click here!</string>
     <string name="strMessage">Different Message!</string>
     <string name="strArmaans">Armaan\'s Button</string>
+    <string name="StrbtnSayHello">Click Here!</string>
+    <string name="strbtnsayArmaan">Armaan\'s Button</string>
 </resources>
