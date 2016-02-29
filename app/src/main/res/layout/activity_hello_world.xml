@@ -24,4 +24,13 @@
         android:id="@+id/txtOutput"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Armaan&apos;s Button"
+        android:id="@+id/btnsayArmaan"
+        android:layout_alignBottom="@+id/txtOutput"
+        android:layout_centerHorizontal="true"
+        android:onClick="This is my new button" />
 </RelativeLayout>
