@@ -32,5 +32,5 @@
         android:id="@+id/btnsayArmaan"
         android:layout_alignBottom="@+id/txtOutput"
         android:layout_centerHorizontal="true"
-        android:onClick="This is my new button" />
+        android:onClick="sayXYZ" />
 </RelativeLayout>

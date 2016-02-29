@@ -1,6 +1,7 @@
 <resources>
 
-    <string name="app_name">नमस्ते दुनिया</string>
-    <string name="strButtonCaption">यहां क्लिक करे!</string>
-    <string name="strMessage">अलग संदेश!</string>
+    <string name="app_name">Hello World</string>
+    <string name="strButtonCaption">click here!</string>
+    <string name="strMessage">Differnt Message!</string>
+    <string name="strArmaans">Armaan\'s Button</string>
 </resources>
